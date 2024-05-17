@@ -1,4 +1,5 @@
 # Visual-Question-Answering-Application
+My Deployed Application link : https://visual-question-answering-application-20042201.streamlit.app/
 ### ViLT (Vision-and-Language Transformer) 🚀🖼️📚
 
 ViLT (Vision-and-Language Transformer) is a cutting-edge model designed to seamlessly integrate visual and textual information. This enables it to excel in tasks that require understanding both images and text, such as Visual Question Answering (VQA). ViLT stands out by processing images and text within a unified transformer architecture, eliminating the need for convolutional neural networks (CNNs) for image feature extraction. 🌟

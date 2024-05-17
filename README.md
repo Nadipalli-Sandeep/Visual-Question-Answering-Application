@@ -3,6 +3,8 @@
 
 ViLT (Vision-and-Language Transformer) is a cutting-edge model designed to seamlessly integrate visual and textual information. This enables it to excel in tasks that require understanding both images and text, such as Visual Question Answering (VQA). ViLT stands out by processing images and text within a unified transformer architecture, eliminating the need for convolutional neural networks (CNNs) for image feature extraction. 🌟
 
+![Screenshot_20240517_173935](https://github.com/Nadipalli-Sandeep/Visual-Question-Answering-Application/assets/106082542/5213a9ae-22aa-49e5-b798-9ad4a3ae3d2e)
+
 #### Key Features ✨
 
 1. **Unified Transformer Architecture** 🎨🧠:
